@@ -128,3 +128,4 @@ dmypy.json
 .DS_Store
 *.iml
 *.xml
+.DS_Store
