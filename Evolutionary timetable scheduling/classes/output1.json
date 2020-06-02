@@ -1,0 +1,224 @@
+[
+    {
+        "Subject": "Software engineering",
+        "Type": "P",
+        "Professor": "Petrov Sergey",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a"
+        ],
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U1",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Web programming",
+        "Type": "P",
+        "Professor": "Petrov Sergey",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "Laboratory"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "Laboratory",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "System programming",
+        "Type": "P",
+        "Professor": "Sovok Ilya",
+        "Groups": [
+            "301",
+            "302",
+            "306",
+            "308"
+        ],
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U8",
+        "Assigned_time": 57
+    },
+    {
+        "Subject": "Data bases",
+        "Type": "V",
+        "Professor": "Spichka Gregory",
+        "Groups": [
+            "301",
+            "303",
+            "304",
+            "305"
+        ],
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U5",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "WEB modelling",
+        "Type": "P",
+        "Professor": "Gitler Ugend",
+        "Groups": [
+            "301",
+            "303",
+            "304",
+            "307",
+            "308",
+            "309",
+            "314",
+            "319",
+            "322"
+        ],
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U8",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Statistics",
+        "Type": "V",
+        "Professor": "Gavrilov Stanislav",
+        "Groups": [
+            "301",
+            "303",
+            "304",
+            "307",
+            "322"
+        ],
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U7",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "System programming",
+        "Type": "V",
+        "Professor": "Stanovich Ivana",
+        "Groups": [
+            "301",
+            "305",
+            "308"
+        ],
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U5",
+        "Assigned_time": 53
+    },
+    {
+        "Subject": "WEB modelling",
+        "Type": "P",
+        "Professor": "Didko Dmitry",
+        "Groups": [
+            "301",
+            "307",
+            "309a"
+        ],
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U1",
+        "Assigned_time": 45
+    },
+    {
+        "Subject": "Web programming",
+        "Type": "V",
+        "Professor": "Ryabov Mikhail",
+        "Groups": [
+            "301",
+            "307",
+            "309a"
+        ],
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U3",
+        "Assigned_time": 49
+    },
+    {
+        "Subject": "Probability theory",
+        "Type": "V",
+        "Professor": "Tischenko Nikolay",
+        "Groups": [
+            "301",
+            "308",
+            "302",
+            "306"
+        ],
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U1",
+        "Assigned_time": 55
+    },
+    {
+        "Subject": "Algorithms,",
+        "Type": "V",
+        "Professor": "Milanovich Ruslan",
+        "Groups": [
+            "302",
+            "303"
+        ],
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Length": "2",
+        "Assigned_classroom": "U4",
+        "Assigned_time": 38
+    }
+]
